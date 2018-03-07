@@ -3,4 +3,14 @@
     <string name="settings">Настройки</string>
     <string name="find">Поиск</string>
     <string name="exit">Выход</string>
+    <string name="radio_google">Google</string>
+    <string name="radio_yandex">Yandex</string>
+    <string name="radio_bing">Bing</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="tag_google">https://www.google.ru/search</string>
+    <string name="tag_yandex">https://yandex.ru</string>
+    <string name="tag_bing">https://bing.com</string>
+    <string name="bt_find">Поиск</string>
+    <string name="et_find_hint">строка поиска</string>
+    <string name="toast_error">Введите текст для поиска</string>
 </resources>
